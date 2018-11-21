@@ -1066,3 +1066,5 @@ When we discover an interesting write-up on Polly, we'll add it to this list. If
 * In the video, [.NET Rocks Live with Jon Skeet and Bill Wagner](https://youtu.be/LCj7h7ZoHA8?t=1617), Bill Wagner discusses Polly.
 * Scott Allen discusses Polly during his [Building for Resiliency and Scale in the Cloud](https://youtu.be/SFLu6jZWXGs?t=1440) presentation at NDC.
 * [ASP.NET Community Standup April 24, 2018](https://youtu.be/k0Xy-5zE9to?t=12m22s): Damian Edwards, Jon Galloway and Scott Hanselman discuss Scott Hanselman's blog on [Polly with IHttpClientFactory](https://www.hanselman.com/blog/AddingResilienceAndTransientFaultHandlingToYourNETCoreHttpClientWithPolly.aspx) and the [Polly team documentation on IHttpClientFactory](https://github.com/App-vNext/Polly/wiki/Polly-and-HttpClientFactory). Interesting background discussion also on feature richness and the importance of good documentation. 
+
+Hello
